@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding:0;
+}
+.top-nav a {
+    color: white;
+    padding-top:15px;
+    padding-bottom:15px;
+    text-decoration: none;
+    
+}
+.col-auto p {
+    margin-left: 5px;
+    display: inline;    
+}
+
+.social-icons a{
+    border-radius: 100%;
+    background-color:brown;
+    font-size:15px;
+    padding: 5px 12px; 
+    display: inline-flex; 
+    text-decoration: none;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+button{
+    background-color:rgb(244, 9, 64) ;
+}
+section{
+    padding:100px 0px;
+}
+.project .carousel-caption{
+    color: black;
+}
+.team .social-icons a{
+    color: white;  
+}
+footer {
+ background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(../img/bg_banner1.jpg), #082032;;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+footer h2 {
+    color: white;
+}
+footer p {
+    color: white;
+}
+footer h6 {
+    color: white;
+}
+hr{
+   color: white; 
+}
